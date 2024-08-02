@@ -10,7 +10,7 @@
 - I'm a student.
 - I'm making PCBs!!!
 - I’m currently learning go!
-- How to reach me: [Twitter - @username](https://twitter.com/yukuyuku4123)
+- How to reach me: [Twitter - @yukuyuku4123](https://twitter.com/yukuyuku4123)
 <br>
 
 
