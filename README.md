@@ -17,11 +17,11 @@
 <!-- 3. 好きな技術スタックに変更 -->
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
-## Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=py,nodejs,kotlin,c,cs,cpp,arduino,raspberrypi,java,git,vscode,visualstudio,blender,unity" />
+## Languages
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=py,nodejs,java,kotlin,c,cs,cpp,arduino,raspberrypi" />
 
 ## Tools
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=py,nodejs,kotlin,c,cs,cpp,arduino,raspberrypi,java,git,vscode,visualstudio,blender,unity" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=git,vscode,visualstudio,blender,unity" />
 
 <br>
 
