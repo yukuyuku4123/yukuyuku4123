@@ -19,8 +19,11 @@
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=py,nodejs,kotlin,c,cs,cpp,arduino,raspberrypi,java,git,vscode,visualstudio,blender,unity" />
-<br>
 
+## Tools
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=py,nodejs,kotlin,c,cs,cpp,arduino,raspberrypi,java,git,vscode,visualstudio,blender,unity" />
+
+<br>
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
